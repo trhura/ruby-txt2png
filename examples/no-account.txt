@@ -1,0 +1,2 @@
+<span face="Ubuntu 12">No Account yet? Register <span foreground="blue"><u>here</u></span>!</span>
+<span face="Tharlon 13">စာရင်းအသစ်ဖွင့်ရန် ဤနေရာကိုနှိပ်ပါ</span>

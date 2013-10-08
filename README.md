@@ -25,7 +25,7 @@ $ cat noacct.txt
 $ ./text2png.rb examples/*.txt
 ```
 
-* Auto-crop and optimize images.
+* Auto-crop and optimize images. (Must have `imagemagick` installed)
 
 ```bash
 $ for image in *.png; do convert "$image" -trim -strip -quality 86 "$image";done
